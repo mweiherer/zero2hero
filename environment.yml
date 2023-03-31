@@ -1,0 +1,13 @@
+# run: conda env create -f environment.yml
+name: zero2hero
+channels:
+  - default
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - git+https://github.com/mmabrouk/chatgpt-wrapper
+    - numpy
+    - pyfiglet
+    - termcolor
+    - colorama
