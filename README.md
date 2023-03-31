@@ -47,6 +47,8 @@ In any case, please cite
     year={2023}
 }
 ```
+Also, if our work helps you with your research, please consider adding us to the author list. 
 
-Also, if our work helps you with your research, please consider adding us to the author list. In case you have any questions or suggestions for further improvements, please e-mail us. We may respond!
+## Contact
+In case you have any questions or suggestions for further improvements, please e-mail us (maximilian.weiherer@fau.de xor bernhard.egger@fau.de). We may respond!
 
