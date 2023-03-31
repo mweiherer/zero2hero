@@ -38,7 +38,7 @@ def main(tex_file):
     num_eqs = len(eqs)
     print('Found ' + str(num_eqs) + ' equation(s). Let\'s make it complex!')
     for id, eq in enumerate(eqs):
-        eq_cpx = gpt.ask('make this equation look extremly complicated: ' + 
+        _, eq_cpx, _ = gpt.ask('make this equation look extremly complicated: ' + 
                          eq + '. provide only plain latex code without any explanation.')
         eq_cpx = remove_dollars(eq_cpx)
         tex_doc = replace_string(tex_doc, eq, eq_cpx)
