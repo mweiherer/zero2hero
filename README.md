@@ -1,5 +1,7 @@
 # From Zero to Hero: Convincing with Extremely Complicated Math
 
+### [Paper](https://eggerbernhard.ch/zero2hero.pdf) | [Code](https://eggerbernhard.ch/zero2hero.pdf)
+
 [Maximilian Weiherer](https://mweiherer.github.io/) and
 [Bernhard Egger](https://eggerbernhard.ch/)<br>
 Funky-Amusing-University (FAU) Erlangen-Nürnberg
