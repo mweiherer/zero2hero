@@ -1,6 +1,6 @@
 # From Zero to Hero: Convincing with Extremely Complicated Math
 
-### [Paper](https://eggerbernhard.ch/zero2hero.pdf) | [Code](https://github.com/mweiherer/zero2hero)
+### [Paper (arXiv)](https://arxiv.org/abs/2304.00399) | [Code](https://github.com/mweiherer/zero2hero)
 
 [Maximilian Weiherer](https://mweiherer.github.io/) and
 [Bernhard Egger](https://eggerbernhard.ch/)<br>
